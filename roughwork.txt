@@ -8,17 +8,19 @@ insert team member names here
 
 Elevator pitch 
 [BC]Assassin's Creed but in Space
+
 World Background
-main differences in your game world
-...
+[BC]The game world is set on different planets with different scenery, set in an of distance system of fictional planets,
+alien races will be present
+
 Pillars
 3-4 fundementals of this game
-...
+
 30 second gameplay description
 describe what its like to play the essence of the game loop
-...
+
 Features points
 key selling points of your game
-...
+
 Market analysis
 similar games , typical customer, expected sales
