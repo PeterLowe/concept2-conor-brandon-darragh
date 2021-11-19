@@ -4,13 +4,13 @@ Title
 insert team member names here
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[DC]hAssassin crees in space
 ...
 World Background
-main differences in your game world
+[DC]The templars went to the moon and Altair teamed up with Elon Musk to fight them
 ...
 Pillars
-3-4 fundementals of this game
+[DC]Leap of faith from space,Tesla,Altair with a lightsaber and among us
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
