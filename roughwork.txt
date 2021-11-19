@@ -5,10 +5,10 @@ insert team member names here
 [Ck] Conor Knight, Darragh, Brandon
 Elevator pitch 
 Describe your game in 30 seconds or less
-All assassin creed worlds have come together and all of the protaganists must go against all the villians in this zero gravity athmosphere as the world has blown up and there is now a multiverse, an alternate reality within an alternite reality
+[Ck]All assassin creed worlds have come together and all of the protaganists must go against all the villians in this zero gravity athmosphere as the world has blown up and there is now a multiverse, an alternate reality within an alternite reality
 World Background
 main differences in your game world
-....
+[Ck] The main difference in our game world is that they all merge together, there are portals to different worlds of assassins creed and they all mix together allowing multi dimensional travel
 Pillars
 3-4 fundementals of this game
 ...
