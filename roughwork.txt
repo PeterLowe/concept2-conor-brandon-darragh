@@ -42,10 +42,10 @@ and star wars squadrons
 
 30 second gameplay description
 describe what its like to play the essence of the game loop
-You go into different worlds to search for the main characters of assassins creed, however you run into difficulties along the way such as side quests and little problems on the road.
+[Ck]You go into different worlds to search for the main characters of assassins creed, however you run into difficulties along the way such as side quests and little problems on the road.
 
 Features points
 key selling points of your game
-
+[Ck] The key selling point of this game is the fact that it is in space, it involves assassins creed which is a relatively realistic game into a wild concept known as space, trying to keep the same realistic theme that past titles have had 
 Market analysis
 similar games , typical customer, expected sales
