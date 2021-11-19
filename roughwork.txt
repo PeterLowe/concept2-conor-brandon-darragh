@@ -2,28 +2,16 @@
 
 Title
 insert team member names here
-
-[Ck] Conor Knight, Darragh, Brandon
-=======
 [Ck] Conor Knight 
 =======
 [BC]Brandon
 
-
 Elevator pitch 
-
-Describe your game in 30 seconds or less
-All assassin creed worlds have come together and all of the protaganists must go against all the villians in this zero gravity athmosphere as the world has blown up and there is now a multiverse, an alternate reality within an alternite reality
-World Background
-main differences in your game world
-....
-=======
 [BC]Assassin's Creed but in Space
 
 World Background
 [BC]The game world is set on different planets with different scenery, set in an of distance system of fictional planets,
 alien races will be present
-
 
 Pillars
 Stealth gameplay seen in previous AC titles, Counter combat system as aseen in previous AC titles,
@@ -34,7 +22,7 @@ and star wars squadrons
 describe what its like to play the essence of the game loop
 
 Features points
-key selling points of your game
+Assassins's Creed in a space setting allowing fro unique enviroments and scernarios
 
 Market analysis
 similar games , typical customer, expected sales
