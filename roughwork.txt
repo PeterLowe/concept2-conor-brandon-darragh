@@ -7,16 +7,39 @@ insert team member names here
 [BC]Brandon
 
 Elevator pitch 
+<<<<<<< HEAD
+=======
+
+Describe your game in 30 seconds or less
+[Ck]All assassin creed worlds have come together and all of the protaganists must go against all the villians in this zero gravity athmosphere as the world has blown up and there is now a multiverse, an alternate reality within an alternite reality
+World Background
+main differences in your game world
+
+....
+=======
+>>>>>>> 9a17a3619e18a4c4e09540aee8c453960c3e3b73
 [BC]Assassin's Creed but in Space
 
 World Background
 [BC]The game world is set on different planets with different scenery, set in an of distance system of fictional planets,
 alien races will be present
 
+<<<<<<< HEAD
+=======
+
+=======
+[Ck] The main difference in our game world is that they all merge together, there are portals to different worlds of assassins creed and they all mix together allowing multi dimensional travel
+
+>>>>>>> 9a17a3619e18a4c4e09540aee8c453960c3e3b73
 Pillars
+
 Stealth gameplay seen in previous AC titles, Counter combat system as aseen in previous AC titles,
 Spaceship travel similar to boat travel in previous titles, Spaceship combat simlar to combat in games like elite dangerous 
 and star wars squadrons
+
+=======
+3-4 fundementals of this game
+[Ck]Fundementals of the game is that stealth is still a pretty big aspect, going into the different worlds you gotta keep yourself hidden from alternate versions of yourself, the combat is also the same with some futuristic aspects, the parkour will be the same but in certain sections there will be zero gravity
 
 30 second gameplay description
 describe what its like to play the essence of the game loop
