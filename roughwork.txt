@@ -7,8 +7,7 @@ insert team member names here
 [BC]Brandon
 
 Elevator pitch 
-Describe your game in 30 seconds or less
-...
+[BC]Assassin's Creed but in Space
 World Background
 main differences in your game world
 ...
