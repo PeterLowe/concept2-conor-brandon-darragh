@@ -2,7 +2,14 @@
 
 Title
 insert team member names here
+<<<<<<< HEAD
 [Ck] Conor Knight, Darragh, Brandon
+=======
+[Ck] Conor Knight 
+=======
+[BC]Brandon
+
+>>>>>>> c0a9493254ac3a16054b9b1730291f9f8aa5733d
 Elevator pitch 
 Describe your game in 30 seconds or less
 All assassin creed worlds have come together and all of the protaganists must go against all the villians in this zero gravity athmosphere as the world has blown up and there is now a multiverse, an alternate reality within an alternite reality
