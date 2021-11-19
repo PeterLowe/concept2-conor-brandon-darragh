@@ -42,6 +42,7 @@ and star wars squadrons
 
 30 second gameplay description
 describe what its like to play the essence of the game loop
+You go into different worlds to search for the main characters of assassins creed, however you run into difficulties along the way such as side quests and little problems on the road.
 
 Features points
 key selling points of your game
